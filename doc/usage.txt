@@ -1,0 +1,7 @@
+greetlib usage:
+
+#include <greetlib.h>
+
+const char *msg = greet("Alice");
+// Returns: "Hello, Alice!"
+
